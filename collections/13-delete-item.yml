@@ -1,0 +1,6 @@
+info:
+  name: delete 13
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/fraud-collections-5/13
